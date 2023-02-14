@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"c++","permalink":"/tags/c","count":1},{"label":"python","permalink":"/tags/python","count":1},{"label":"ordered set","permalink":"/tags/ordered-set","count":1},{"label":"data structure","permalink":"/tags/data-structure","count":1}]')}}]);
