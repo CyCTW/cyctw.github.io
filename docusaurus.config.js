@@ -29,7 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "zh-TW",
-    locales: ["zh-TW", "en"],
+    locales: ["zh-TW"],
   },
 
   presets: [
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: "Document",
-                to: "/docs/intro",
+                to: "/",
               },
             ],
           },
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com/",
+                href: "https://www.linkedin.com/cyctw",
               },
               {
                 label: "Github",
