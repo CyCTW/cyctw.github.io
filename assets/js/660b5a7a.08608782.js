@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1535],{7935:t=>{t.exports=JSON.parse('{"label":"bit","permalink":"/tags/bit","allTagsPath":"/tags","count":1,"items":[{"id":"DataStructure/Bit","title":"Binary Index Tree","description":"Introduction","permalink":"/DataStructure/Bit"}]}')}}]);
